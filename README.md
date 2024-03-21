@@ -1,6 +1,6 @@
 ### Hello 👋, I am Stephen
 
-I am a full-stack developer looking to change the world, one line of code at a time.
+I am a full-stack developer looking to change the world, one line of code at a time.  I am finishing my Bacheleors degree in Graphic Information Technology and work on projects to learn and for fun!
 
 ![Tools and Languages: Python, Javascript, HTML, CSS, Photoshop, Illustrator, and Indesign](Tools.jpg)
 
