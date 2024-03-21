@@ -2,7 +2,7 @@
 
 I am a full-stack developer looking to change the world, one line of code at a time.
 
-![Tools and Languages: Python, Javascript, HTML, CSS, Photoshop, Illustrator, and Indesign]("C:\Users\scare\OneDrive\Pictures\Camera Roll\Tools.jpg")
+![Tools and Languages: Python, Javascript, HTML, CSS, Photoshop, Illustrator, and Indesign]("Tools.jpg")
 
 <!--
 **stevec713/stevec713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
