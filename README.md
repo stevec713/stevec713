@@ -20,8 +20,11 @@ I am a website designer and developer from New Jersey.  I am finishing my Bachel
 <hr>
 
 ## Projects
-
-
+<ul>
+<li><a href="https://stevec713.github.io/stratos/">Stratos brand design and website development</a></li>
+<li><a href="https://stevec713.github.io/recipe/">Good Eats responsive website development</a></li>
+<li><a href="https://stevec713.github.io/final-project/">Steep Slope Ski Resort website design</a></li>
+</ul>
 
 
 
